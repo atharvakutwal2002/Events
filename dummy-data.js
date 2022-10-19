@@ -1,6 +1,6 @@
 const DUMMY_EVENTS = [
   {
-    id: "event1",
+    id: "1",
     title: "Programming for Everyone",
     description: "Everyone can learn to code! Yes, everyone! Live Event",
     location: "A street 25,  San Francisco",
@@ -9,7 +9,7 @@ const DUMMY_EVENTS = [
     isFeatured: false,
   },
   {
-    id: "event2",
+    id: "e2",
     title: "Networking Basics",
     description: "Making networking for introverts fun",
     location: "Street 47, New York",
@@ -18,7 +18,7 @@ const DUMMY_EVENTS = [
     isFeatured: true,
   },
   {
-    id: "event2",
+    id: "e3",
     title: "Networking Advanced",
     description: "Making networking for advanced use-cases",
     location: "Street 47, New York",
